@@ -1,3 +1,10 @@
-# typescript-merge-func
-# typescript-merge-func
-# typescript-merge-func
+To install run
+```
+npm install 
+```
+
+To test
+```
+npm test
+```
+
